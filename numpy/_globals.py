@@ -14,6 +14,8 @@ That was not the case when the singleton classes were defined in the numpy
 ``__init__.py`` file. See gh-7844 for a discussion of the reload problem that
 motivated this module.
 
+AJOS
+
 """
 import enum
 
